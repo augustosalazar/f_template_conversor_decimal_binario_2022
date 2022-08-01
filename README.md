@@ -2,9 +2,9 @@
 
 Código base para la primera aplicación en Flutter, un conversor de binario a decimal
 
-![Alt text](tomaPantalla.png?raw=true "Title")   
+<img src="tomaPantalla.png" width="300" />
 
 Objetivo    
 
-![Alt text](objetivo.gif?raw=true "Title")
+<img src="objetivo.gif" width="300" />
 
